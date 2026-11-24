@@ -1,1 +1,15 @@
 
+{
+  "name": "nova-city-bot",
+  "version": "1.0.0",
+  "description": "NOVA CITY Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.4.7"
+  }
+}
+
